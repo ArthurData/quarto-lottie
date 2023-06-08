@@ -1,0 +1,15 @@
+---
+title: "Quarto LottieFiles"
+subtitle: "Add LottieFiles"
+format: revealjs
+---
+
+## In the morning
+
+
+
+## Getting up
+
+{{< quarto-lottie >}}
+
+
