@@ -6,10 +6,7 @@ format: revealjs
 
 ## In the morning
 
-
-
 ## Getting up
 
-{{< quarto-lottie >}}
-
+{{< quarto-lottie src=https://lottie.host/5f2ed099-4737-471d-a199-96b7786d7c88/JhebxcrsLV.json >}}
 
