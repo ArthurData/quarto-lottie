@@ -1,14 +1,6 @@
-# Quarto-lottie Extension For Quarto
-
-_TODO_
+# Quarto-lottie Extension
 
 ## Installation
-
-To install this extension:
-
-```
-quarto add ArthurData/quarto-lottie
-```
 
 > Requires Quarto Version 1.3.0 or later...
 
@@ -25,6 +17,6 @@ Here is the source code for a minimal example: [example.qmd](example.qmd).
 To embed an lottie player, use the {{< quarto-lottie }} shortcode. For example:
 
 ```default
-{{< quarto-lottie src=https://lottie.host/<you_url>.json >}}
+{{< quarto-lottie src=https://lottie.host/<url>.json >}}
 ```
 
